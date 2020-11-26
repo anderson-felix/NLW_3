@@ -1,2 +1,2 @@
 # NLW_3
- Web aplication using React, Nodejs and SQL
+ Web application using React, Nodejs and SQL
